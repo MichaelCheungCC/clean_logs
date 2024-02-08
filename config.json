@@ -1,0 +1,9 @@
+[
+    {
+        "master_path": "C:\\Users\\User\\testing",
+        "delete_folder_str_list": [
+            "\\AppData\\Temp",
+            "\\AppData\\Cache"
+        ]
+    }
+]

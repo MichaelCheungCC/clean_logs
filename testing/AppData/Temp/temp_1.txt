@@ -1,0 +1,195 @@
+
+Main menu
+
+WikipediaThe Free Encyclopedia
+Search Wikipedia
+Search
+Create account
+Log in
+
+Personal tools
+Photograph your local culture, help Wikipedia and win!Hide
+Contents hide
+(Top)
+Deontological philosophies
+Toggle Deontological philosophies subsection
+Kantianism
+Divine command theory
+Ross's deontological pluralism
+Contemporary deontology
+Deontology and consequentialism
+Principle of permissible harm
+Reconciling deontology with consequentialism
+Secular deontology
+See also
+References
+Toggle References subsection
+Bibliography
+External links
+Deontology
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+From Wikipedia, the free encyclopedia
+"Deontic" redirects here. For the linguistic term, see Linguistic modality.
+Not to be confused with the opposite of ontology.
+Part of a series on
+Ethics
+OutlineCategoryIndex
+Schools
+Concepts
+Domains
+Ethicists
+Works
+Related
+This is a subseries on philosophy. In order to explore related topics, please visit navigation.
+vte
+In moral philosophy, deontological ethics or deontology (from Greek: δέον, 'obligation, duty' + λόγος, 'study') is the normative ethical theory that the morality of an action should be based on whether that action itself is right or wrong under a series of rules and principles, rather than based on the consequences of the action.[1] It is sometimes described as duty-, obligation-, or rule-based ethics.[2][3] Deontological ethics is commonly contrasted to consequentialism,[4] utilitarianism,[5] virtue ethics,[6] and pragmatic ethics.[7] In this terminology, action is more important than the consequences.
+
+The term deontological was first used to describe the current, specialised definition by C. D. Broad in his 1930 book, Five Types of Ethical Theory.[8] Older usage of the term goes back to Jeremy Bentham, who coined it prior to 1816 as a synonym of dicastic or censorial ethics (i.e., ethics based on judgement).[9][10] The more general sense of the word is retained in French, especially in the term code de déontologie (ethical code), in the context of professional ethics.
+
+Depending on the system of deontological ethics under consideration, a moral obligation may arise from an external or internal source, such as a set of rules inherent to the universe (ethical naturalism), religious law, or a set of personal or cultural values (any of which may be in conflict with personal desires).
+
+Deontological philosophies
+There are numerous formulations of deontological ethics.
+
+Kantianism
+
+Immanuel Kant
+Main article: Kantian ethics
+Immanuel Kant's theory of ethics is considered deontological for several different reasons.[11][12] First, Kant argues that in order to act in the morally right way, people must act from duty (Pflicht).[13] Second, Kant argued that it was not the consequences of actions that make them right or wrong, but the motives of the person who carries out the action.
+
+Kant's first argument begins with the premise that the highest good must be both good in itself and good without qualification.[14] Something is "good in itself" when it is intrinsically good; and is "good without qualification" when the addition of that thing never makes a situation ethically worse. Kant then argues that those things that are usually thought to be good, such as intelligence, perseverance, and pleasure, fail to be either intrinsically good or good without qualification. Pleasure, for example, appears not to be good without qualification, because when people take pleasure in watching someone suffer, this seems to make the situation ethically worse. He concludes that there is only one thing that is truly good:
+
+Nothing in the world—indeed nothing even beyond the world—can possibly be conceived which could be called good without qualification except a good will.[14]
+
+Kant then argues that the consequences of an act of willing cannot be used to determine that the person has a good will; good consequences could arise by accident from an action that was motivated by a desire to cause harm to an innocent person, and bad consequences could arise from an action that was well-motivated. Instead, he claims, a person has a good will when he "acts out of respect for the moral law."[14] People "act out of respect for the moral law" when they act in some way because they have a duty to do so. Thus, the only thing that is truly good in itself is a good will, and a good will is only good when the willer chooses to do something because it is that person's duty, i.e. out of respect for the law. He defines respect as "the concept of a worth which thwarts my self-love."[15]
+
+Kant's three significant formulations of the categorical imperative are:
+
+Act only according to that maxim by which you can also will that it would become a universal law;
+Act in such a way that you always treat humanity, whether in your own person or in the person of any other, never simply as a means, but always at the same time as an end; and
+Every rational being must so act as if he were through his maxim always a legislating member in a universal kingdom of ends.
+Kant argued that the only absolutely good thing is a good will, and so the single determining factor of whether an action is morally right is the will, or motive of the person doing it. If they are acting on a bad maxim, e.g. 'I will lie', then their action is wrong, even if some good consequences come of it.
+
+In his essay, "On a Supposed Right to Lie Because of Philanthropic Concerns", arguing against the position of Benjamin Constant, Des réactions politiques, Kant states that:[16]
+
+Hence a lie defined merely as an intentionally untruthful declaration to another man does not require the additional condition that it must do harm to another, as jurists require in their definition (mendacium est falsiloquium in praeiudicium alterius). For a lie always harms another; if not some human being, then it nevertheless does harm to humanity in general, inasmuch as it vitiates the very source of right [Rechtsquelle].… All practical principles of right must contain rigorous truth.… This is because such exceptions would destroy the universality on account of which alone they bear the name of principles.
+
+Divine command theory
+Main article: Divine command theory
+Although not all deontologists are religious, some believe in the divine command theory, which is actually a cluster of related theories that essentially state that an action is right if God has decreed that it is right.[17] According to English philosopher Ralph Cudworth, William of Ockham, René Descartes, and 18th-century Calvinists all accepted various versions of this moral theory, as they all held that moral obligations arise from God's commands.[18]
+
+The divine command theory is a form of deontology because, according to it, the rightness of any action depends upon that action being performed because it is a duty, not because of any good consequences arising from that action. If God commands people not to work on Sabbath, then people act rightly if they do not work on Sabbath because God has commanded that they do not do so. If they do not work on Sabbath because they are lazy, then their action is not, truly speaking, "right" even though the actual physical action performed is the same. If God commands not to covet a neighbour's goods, this theory holds that it would be immoral to do so, even if coveting provides the beneficial outcome of a drive to succeed or do well.
+
+One thing that clearly distinguishes Kantian deontologism from divine command deontology is that Kantianism maintains that man, as a rational being, makes the moral law universal, whereas divine command maintains that God makes the moral law universal.
+
+Ross's deontological pluralism
+W. D. Ross objects to Kant's monistic deontology, which bases ethics in only one foundational principle, the categorical imperative. He contends that there is a plurality of prima facie duties determining what is right.[19][20]: xii  Some duties originate from our own previous actions, like the duty of fidelity (to keep promises and to tell the truth), and the duty of reparation (to make amends for wrongful acts). The duty of gratitude (to return kindnesses received) arises from the actions of others. Other duties include the duty of non-injury (not to hurt others), the duty of beneficence (to promote the maximum of aggregate good), the duty of self-improvement (to improve one's own condition) and the duty of justice (to distribute benefits and burdens equably).[20]: 21–5 [21] One problem the deontological pluralist has to face is that cases can arise where the demands of one duty violate another duty, so-called moral dilemmas.[22] For example, there are cases where it is necessary to break a promise in order to relieve someone's distress.[20]: 28  Ross makes use of the distinction between prima facie duties and absolute duty to solve this problem.[20]: 28  The duties listed above are prima facie duties; they are general principles whose validity is self-evident to morally mature persons. They are factors that do not take all considerations into account. Absolute duty, on the other hand, is particular to one specific situation, taking everything into account, and has to be judged on a case-by-case basis.[19][23] It is absolute duty that determines which acts are right or wrong.[19]
+
+Contemporary deontology
+Contemporary deontologists (i.e., scholars born in the first half of the 20th century) include Józef Maria Bocheński, Thomas Nagel, T. M. Scanlon, and Roger Scruton.
+
+Bocheński (1965) makes a distinction between deontic and epistemic authority:[24]
+
+A typical example of epistemic authority in Bocheński's usage would be "the relation of a teacher to her students." A teacher has epistemic authority when making declarative sentences that the student presumes is reliable knowledge and appropriate but feels no obligation to accept or obey.[25]
+An example of deontic authority would be "the relation between an employer and her employee." An employer has deontic authority in the act of issuing an order that the employee is obliged to accept and obey regardless of its reliability or appropriateness.[25]
+Scruton (2017), in his book On Human Nature, is critical of consequentialism and similar ethical theories, such as hedonism and utilitarianism, instead proposing a deontological ethical approach.[26] He implies that proportional duty and obligation are essential components of the ways in which we decide to act, and he defends natural law against opposing theories. He also expresses admiration for virtue ethics, and believes that the two ethical theories are not, as is frequently portrayed, mutually exclusive.[26]
+
+Deontology and consequentialism
+Further information: Trolley problem, Consequentialism, Utilitarianism, and Effective altruism
+Principle of permissible harm
+Frances Kamm's "Principle of Permissible Harm" (1996) is an effort to derive a deontological constraint that coheres with our considered case judgments while also relying heavily on Kant's categorical imperative.[27] The principle states that one may harm in order to save more if and only if the harm is an effect or an aspect of the greater good itself. This principle is meant to address what Kamm feels are most people's considered case judgments, many of which involve deontological intuitions. For instance, Kamm argues that we believe it would be impermissible to kill one person to harvest his organs in order to save the lives of five others. Yet, we think it is morally permissible to divert a runaway trolley that would otherwise kill five innocent, immobile people, onto a sidetrack where only one innocent and immobile person will be killed. Kamm believes the Principle of Permissible Harm explains the moral difference between these and other cases, and more importantly expresses a constraint telling us exactly when we may not act to bring about good ends—such as in the organ harvesting case.
+
+In 2007, Kamm published Intricate Ethics, a book that presents a new theory, the "Doctrine of Productive Purity", that incorporates aspects of her "Principle of Permissible Harm".[28] Like the "Principle", the "Doctrine of Productive Purity" is an attempt to provide a deontological prescription for determining the circumstances in which people are permitted to act in a way that harms others.[29]
+
+Reconciling deontology with consequentialism
+Various attempts have been made to reconcile deontology with consequentialism. Threshold deontology holds that rules ought to govern up to a point despite adverse consequences; but when the consequences become so dire that they cross a stipulated threshold, consequentialism takes over.[30] Theories put forth by Thomas Nagel and Michael S. Moore attempt to reconcile deontology with consequentialism by assigning each a jurisdiction.[30] Iain King's 2008 book How to Make Good Decisions and Be Right All the Time uses quasi-realism and a modified form of utilitarianism to develop deontological principles that are compatible with ethics based on virtues and consequences. King develops a hierarchy of principles to link his meta-ethics, which is more inclined towards consequentialism, with the deontological conclusions he presents in his book.[31]
+
+Secular deontology
+Intuition-based deontology is a concept within secular ethics. A classical example of literature on secular ethics is the Kural text, authored by the ancient Tamil Indian philosopher Valluvar. It can be argued that some concepts from deontological ethics date back to this text. Concerning ethical intuitionism, 20th century philosopher C.D. Broad coined the term "deontological ethics" to refer to the normative doctrines associated with intuitionism, leaving the phrase "ethical intuitionism" free to refer to the epistemological doctrines.[32]
+
+See also
+	Philosophy portal
+Convention (norm) – Set of agreed, stipulated, or generally accepted standards
+Categorical imperative – Central concept in Kantian moral philosophy
+Deontic logic – Field of philosophical logic
+Deontological libertarianism – Political ideology
+Lawrence Kohlberg's stages of moral development – Psychological theory describing the evolution of moral reasoning
+Meta-ethics – Branch of ethics seeking to understand ethical properties
+Moral responsibility – Concept in ethics
+Norm (philosophy) – Sentences used to effect an action
+Plank of Carneades – Thought experiment proposed by Carneades of Cyrene
+Rule according to higher law – Belief that universal principles of morality override unjust laws
+The Right and the Good – 1930 book by Scottish philosopher David Ross
+References
+ "Deontology dictionary definition | deontology defined".
+ Waller, Bruce N. (2005). Consider Ethics: Theory, Readings, and Contemporary Issues. London, England: Pearson Longman. p. 23. ISBN 978-0205017737.
+ "Deontology". Ethics Unwrapped. Retrieved 27 May 2020.
+ Flew, Antony (1979). "Consequentialism". A Dictionary of Philosophy (2nd ed.). New York City: St. Martin's Press. p. 73. ISBN 978-0312209230.
+ "Next Stop: 'Trolley Problem'". Merriam-Webster. Retrieved 25 July 2023.
+ Carr, David; Steutel, Jan, eds. (1999). Virtue Ethics and Moral Education. Routledge. p. 22. ISBN 9780415170734.
+ LaFollette, Hugh (2000). "Pragmatic ethics". In LaFollette, Hugh (ed.). The Blackwell guide to ethical theory. Blackwell philosophy guides. Oxford, UK; Malden, MA: Wiley-Blackwell. pp. 400–419. ISBN 9780631201182. OCLC 41645965.
+ Beauchamp, Tom L. (1991). Philosophical Ethics: An Introduction to Moral Philosophy. New York City: McGraw Hill. p. 171. ISBN 978-0070042568.
+ Bentham, Jeremy. 1816. Chrestomathia. London. p. 213–14: "For a synonym, Dicastic Ethics may have the single-worded appellative Deontology.*" Corresponding footnote: "*[Deontology.] From two Greek words, the first of which signifies fit, fitting, right, becoming, proper. Deontology—an account or indication of that which, on the occasion in question, whatsoever it be, is—(i.e. by him who speaks or writes, is regarded as being)—fit, fitting, becoming, proper. It is in sound only, and not in signification, that it has any connexion with the word [ontology], employed above. Applied to every branch of Ethics, taken in the largest sense of the word Ethics, the use of such a word as Deontology affords a promise of being attended with considerable convenience. It will accord equally well with every system which ever has been, or ever can be, devised, in relation to the foundation of moral obligation :—in the use of it, no such incongruity and presumption is involved, as that which is called petitio principii—i.e. a begging of the question—an assumption of the matter in dispute."
+ Bentham, Jeremy. 1834. Deontology or, The Science of Morality, edited by J. Bowring. London: Longman, Rees, Orme, Browne, Green, and Longman. p. 21: "Deontology is derived from the Greek words, το δεον (that which is proper) and Λογια, knowledge – meaning the knowledge of what is right and proper; and it is here specially applied to the subject of morals, or that part of the field of action which is not the object of public legislation. As an art, it is the doing what is fit to be done; as a science, the knowing what is fit to be done on every occasion."
+ Orend, Brian. 2000. War and International Justice: A Kantian Perspective. West Waterloo, ON: Wilfrid Laurier University Press. p. 19.
+ Kelly, Eugene. 2006. The Basics of Western Philosophy. Greenwood Press. p. 160.
+ Abbott, Thomas Kingsmill, trans. 1889. The Metaphysical Elements of Ethics. [Preface and Introduction to Metaphysische Anfangsgründe der Tugendlehre, 1797]. Abbott's deontology translates Kant's Pflichtenlehre.
+ Kant, Immanuel. 1785. "Transition from the Common Rational Knowledge of Morals to the Philosophical." § 1 in Groundwork of the Metaphysic of Morals.
+ Kant, Immanuel. 1785. Fundamental Principles of the Metaphysic of Morals (10th ed.), translated by T. K. Abbott. Project Gutenberg. p. 23.
+ "Über ein vermeintes Recht aus Menschenliebe zu lügen", Berlinische Blätter 1 (1797), 301–314; edited in: Werke in zwölf Bänden, vol. 8, Frankfurt am Main (1977), zeno.org/nid/20009192123.
+ Wierenga, Edward. 1983. "A Defensible Divine Command Theory." Noûs 17(3):387–407.
+ Cudworth, Ralph. [1731] 1996. A Treatise Concerning Eternal and Immutable Morality, edited by S. Hutton. Cambridge: Cambridge University Press.
+ Skelton, Anthony (2012). "William David Ross". The Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford University. Retrieved 12 January 2021.
+ Ross, W. D. (2002) [1930]. The Right and the Good. Clarendon Press.
+ Simpson, David L. "William David Ross". Internet Encyclopedia of Philosophy. Retrieved 12 January 2021.
+ Borchert, Donald (2006). "Ross, William David". Macmillan Encyclopedia of Philosophy, 2nd Edition. Macmillan.
+ Burgh, W. G. de (1931). "The Right and the Good. By W. D. Ross M.A., LL.D., Provost of Oriel College, Oxford. (Oxford: At the Clarendon Press. 1930. Pp. Vi + 176. Price 10s. 6d.)". Philosophy. 6 (22): 236–40. doi:10.1017/S0031819100045265. S2CID 170734138.
+ Bocheński, Józef. 1965. "Analysis of authority." Pp. 162–73 in The Logic of Religion. New York: New York University Press. ISBN 978-0814700501.
+ Brożek, Anna. 2013. "Bocheński on authority." Studies in East European Thought 65(1):115–33. doi:10.1007/s11212-013-9175-9.
+ Scruton, Roger (2017). On Human Nature (1st ed.). Princeton. pp. 79–112. ISBN 978-0-691-18303-9.
+ Kamm, Frances M. 1996. Morality, Mortality Vol. II: Rights, Duties, and Status. New York: Oxford University Press.
+ Kamm, Frances M. 2007. "Toward the Essence of Nonconsequentialist Constraints on Harming." Ch. 5 in Intricate Ethics: Rights, Responsibilities, and Permissible Harm. Oxford: Oxford University Press. ISBN 978-0-19-518969-8.
+ Waugh, Laurence Francis Hogan. 2015. "Harming the innocent to save lives A critique of the Doctrine of Productive Purity" (Masters Research thesis). School of Historical and Philosophical Studies - Theses. University of Melbourne. hdl:11343/52416.
+ Alexander, Larry; Moore, Michael (21 November 2007). "Deontological Ethics". Stanford Encyclopedia of Philosophy. Winter 2020 Edition. Retrieved 30 September 2023.
+ King, Iain (2008). How to Make Good Decisions and Be Right All the Time. Continuum. p. 245. ISBN 978-1-84706-347-2. Page 220 of this book lists 14 deontological principles, which King describes as "The first fourteen principles of right and wrong."
+ Louden, Robert B (1996). "Toward a Genealogy of 'Deontology'". Journal of the History of Philosophy 34:4. Johns Hopkins University Press., p. 587
+Bibliography
+Beauchamp, Tom L. 1991. Philosophical Ethics: An Introduction to Moral Philosophy (2nd ed.) New York: McGraw Hill.
+Broad, C. D. 1930. Five Types of Ethical Theory. New York: Harcourt, Brace and Co.
+Flew, Antony. 1979. "Consequentialism." In A Dictionary of Philosophy (2nd ed.). New York: St. Martin's.
+Kamm, Frances M. 1996. Morality, Mortality Vol. II: Rights, Duties, and Status. New York: Oxford University Press.
+—— 2007. Intricate Ethics: Rights, Responsibilities, and Permissible Harm. Oxford: Oxford University Press. ISBN 978-0-19-518969-8, 978-0-19-534590-2.
+Kant, Immanuel (1964). Groundwork of the Metaphysic of Morals. Harper and Row Publishers, Inc. ISBN 978-0-06-131159-8.
+«Législation, éthique et déontologie», Bruxelles: Editions de Boeck Université, 2011, Karine BREHAUX, ISBN 978-2-84371-558-7
+Olson, Robert G. 1967. "Deontological Ethics." In The Encyclopedia of Philosophy, edited by P. Edwards. London: Collier Macmillan.
+Ross, W. D. 1930. The Right and the Good. Oxford: Clarendon Press.
+Salzman, Todd A. 1995. Deontology and Teleology: An Investigation of the Normative Debate in Roman Catholic Moral Theology. University Press.
+Waller, Bruce N. 2005. Consider Ethics: Theory, Readings, and Contemporary Issues. New York: Pearson Longman.
+Wierenga, Edward. 1983. "A Defensible Divine Command Theory." Noûs 17(3):387–407.
+External links
+
+Wikimedia Commons has media related to Deontological ethics.
+Kantian Ethics – Summary A concise summary of the key details of Kant's deontology
+Freedom and the Boundary of Morals, Lecture 22 from Stephen Palmquist's book, The Tree of Philosophy (fourth edition, 2000).
+Deontology and Ethical Ends
+Stanford Encyclopedia of Philosophy entry on Special Obligations
+Log in to ePortfolios@FedUni – ePortfolios@FedUni Deontology framework ethics
+vte
+Philosophy
+vte
+Ethics
+vte
+Jurisprudence
+Authority control databases Edit this at Wikidata
+Categories: DeontologyMoralityNormative ethicsEthical theories
+This page was last edited on 25 January 2024, at 07:47 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaCode of ConductDevelopersStatisticsCookie statementMobile viewWikimedia FoundationPowered by MediaWiki
+Toggle limited content width

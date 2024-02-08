@@ -1,0 +1,1 @@
+call "C:\Users\User\clean_logs\.venv\Scripts\activate.bat" & "C:\Users\User\clean_logs\.venv\Scripts\python.exe" "C:\Users\User\clean_logs\main.py"

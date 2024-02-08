@@ -1,0 +1,277 @@
+
+Main menu
+
+WikipediaThe Free Encyclopedia
+Search Wikipedia
+Search
+Create account
+Log in
+
+Personal tools
+Photograph your local culture, help Wikipedia and win!Hide
+Contents hide
+(Top)
+History
+Paradoxes
+Toggle Paradoxes subsection
+Proposed solutions
+Toggle Proposed solutions subsection
+Similar paradoxes
+Toggle Similar paradoxes subsection
+See also
+Notes
+References
+External links
+Zeno's paradoxes
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+From Wikipedia, the free encyclopedia
+"Arrow paradox" redirects here. For other uses, see Arrow paradox (disambiguation).
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article relies excessively on references to primary sources. (March 2023)
+This article's lead section may be too short to adequately summarize the key points. (April 2023)
+Zeno's paradoxes are a set of philosophical problems devised by the Eleatic Greek philosopher Zeno of Elea (c. 490–430 BC).
+
+History
+The origins of the paradoxes are somewhat unclear, but they are generally thought to have been developed to support Parmenides' doctrine of monism, that all of reality is one, and that all change is impossible[clarification needed]. Diogenes Laërtius, citing Favorinus, says that Zeno's teacher Parmenides was the first to introduce the paradox of Achilles and the tortoise. But in a later passage, Laërtius attributes the origin of the paradox to Zeno, explaining that Favorinus disagrees.[1][better source needed]
+
+Many of these paradoxes argue that contrary to the evidence of one's senses, motion is nothing but an illusion. In Plato's Parmenides (128a–d), Zeno is characterized as taking on the project of creating these paradoxes because other philosophers claimed paradoxes arise when considering Parmenides' view. Zeno's arguments may then be early examples of a method of proof called reductio ad absurdum, also known as proof by contradiction. Thus Plato has Zeno say the purpose of the paradoxes "is to show that their hypothesis that existences are many, if properly followed up, leads to still more absurd results than the hypothesis that they are one."[2] Plato has Socrates claim that Zeno and Parmenides were essentially arguing exactly the same point.[3] They are also credited as a source of the dialectic method used by Socrates.[4]
+
+Paradoxes
+Some of Zeno's nine surviving paradoxes (preserved in Aristotle's Physics[5][6] and Simplicius's commentary thereon) are essentially equivalent to one another. Aristotle offered a response to some of them.[5] Popular literature often misrepresents Zeno's arguments. For example, Zeno is often said to have argued that the sum of an infinite number of terms must itself be infinite–with the result that not only the time, but also the distance to be travelled, become infinite.[7] However, none of the original ancient sources has Zeno discussing the sum of any infinite series. Simplicius has Zeno saying "it is impossible to traverse an infinite number of things in a finite time". This presents Zeno's problem not with finding the sum, but rather with finishing a task with an infinite number of steps: how can one ever get from A to B, if an infinite number of (non-instantaneous) events can be identified that need to precede the arrival at B, and one cannot reach even the beginning of a "last event"?[8][9][10][11]
+
+Paradoxes of motion
+Three of the strongest and most famous—that of Achilles and the tortoise, the Dichotomy argument, and that of an arrow in flight—are presented in detail below.
+
+Dichotomy paradox
+
+The dichotomy
+That which is in locomotion must arrive at the half-way stage before it arrives at the goal.
+
+— as recounted by Aristotle, Physics VI:9, 239b10
+Suppose Atalanta wishes to walk to the end of a path. Before she can get there, she must get halfway there. Before she can get halfway there, she must get a quarter of the way there. Before traveling a quarter, she must travel one-eighth; before an eighth, one-sixteenth; and so on.
+
+
+The resulting sequence can be represented as:
+
+{
+⋯
+,
+1
+16
+,
+1
+8
+,
+1
+4
+,
+1
+2
+,
+1
+}
+{\displaystyle \left\{\cdots ,{\frac {1}{16}},{\frac {1}{8}},{\frac {1}{4}},{\frac {1}{2}},1\right\}}
+This description requires one to complete an infinite number of tasks, which Zeno maintains is an impossibility.[12]
+
+This sequence also presents a second problem in that it contains no first distance to run, for any possible (finite) first distance could be divided in half, and hence would not be first after all. Hence, the trip cannot even begin. The paradoxical conclusion then would be that travel over any finite distance can be neither completed nor begun, and so all motion must be an illusion.[13]
+
+This argument is called the "Dichotomy" because it involves repeatedly splitting a distance into two parts. An example with the original sense can be found in an asymptote. It is also known as the Race Course paradox.
+
+Achilles and the tortoise
+"Achilles and the Tortoise" redirects here. For other uses, see Achilles and the Tortoise (disambiguation).
+See also: Infinity § Zeno: Achilles and the tortoise
+
+Achilles and the tortoise
+In a race, the quickest runner can never over­take the slowest, since the pursuer must first reach the point whence the pursued started, so that the slower must always hold a lead.
+
+— as recounted by Aristotle, Physics VI:9, 239b15
+In the paradox of Achilles and the tortoise, Achilles is in a footrace with the tortoise. Achilles allows the tortoise a head start of 100 meters, for example. Suppose that each racer starts running at some constant speed, one faster than the other. After some finite time, Achilles will have run 100 meters, bringing him to the tortoise's starting point. During this time, the tortoise has run a much shorter distance, say 2 meters. It will then take Achilles some further time to run that distance, by which time the tortoise will have advanced farther; and then more time still to reach this third point, while the tortoise moves ahead. Thus, whenever Achilles arrives somewhere the tortoise has been, he still has some distance to go before he can even reach the tortoise. As Aristotle noted, this argument is similar to the Dichotomy.[14] It lacks, however, the apparent conclusion of motionlessness.
+
+Arrow paradox
+
+The arrow
+Not to be confused with other paradoxes of the same name.
+If everything when it occupies an equal space is at rest at that instant of time, and if that which is in locomotion is always occupying such a space at any moment, the flying arrow is therefore motionless at that instant of time and at the next instant of time but if both instants of time are taken as the same instant or continuous instant of time then it is in motion.[15]
+
+— as recounted by Aristotle, Physics VI:9, 239b5
+In the arrow paradox, Zeno states that for motion to occur, an object must change the position which it occupies. He gives an example of an arrow in flight. He states that at any one (durationless) instant of time, the arrow is neither moving to where it is, nor to where it is not.[16] It cannot move to where it is not, because no time elapses for it to move there; it cannot move to where it is, because it is already there. In other words, at every instant of time there is no motion occurring. If everything is motionless at every instant, and time is entirely composed of instants, then motion is impossible.
+
+Whereas the first two paradoxes divide space, this paradox starts by dividing time—and not into segments, but into points.[17]
+
+Other paradoxes
+Aristotle gives three other paradoxes.
+
+Paradox of place
+From Aristotle:
+
+If everything that exists has a place, place too will have a place, and so on ad infinitum.[18]
+
+Paradox of the grain of millet
+Description of the paradox from the Routledge Dictionary of Philosophy:
+
+The argument is that a single grain of millet makes no sound upon falling, but a thousand grains make a sound. Hence a thousand nothings become something, an absurd conclusion.[19]
+
+Aristotle's response:
+
+Zeno's reasoning is false when he argues that there is no part of the millet that does not make a sound: for there is no reason why any such part should not in any length of time fail to move the air that the whole bushel moves in falling. In fact it does not of itself move even such a quantity of the air as it would move if this part were by itself: for no part even exists otherwise than potentially.[20]
+
+Description from Nick Huggett:
+
+This is a Parmenidean argument that one cannot trust one's sense of hearing. Aristotle's response seems to be that even inaudible sounds can add to an audible sound.[21]
+
+The moving rows (or stadium)
+
+The moving rows
+From Aristotle:
+
+... concerning the two rows of bodies, each row being composed of an equal number of bodies of equal size, passing each other on a race-course as they proceed with equal velocity in opposite directions, the one row originally occupying the space between the goal and the middle point of the course and the other that between the middle point and the starting-post. This...involves the conclusion that half a given time is equal to double that time.[22]
+
+For an expanded account of Zeno's arguments as presented by Aristotle, see Simplicius's commentary On Aristotle's Physics.[full citation needed]
+
+Proposed solutions
+In classical antiquity
+According to Simplicius, Diogenes the Cynic said nothing upon hearing Zeno's arguments, but stood up and walked, in order to demonstrate the falsity of Zeno's conclusions[citation needed] (see solvitur ambulando[original research?]). To fully solve any of the paradoxes, however, one needs to show what is wrong with the argument, not just the conclusions. Through history, several solutions have been proposed, among the earliest recorded being those of Aristotle and Archimedes.
+
+Aristotle (384 BC–322 BC) remarked that as the distance decreases, the time needed to cover those distances also decreases, so that the time needed also becomes increasingly small.[23][failed verification][24] Aristotle also distinguished "things infinite in respect of divisibility" (such as a unit of space that can be mentally divided into ever smaller units while remaining spatially the same) from things (or distances) that are infinite in extension ("with respect to their extremities").[25] Aristotle's objection to the arrow paradox was that "Time is not composed of indivisible nows any more than any other magnitude is composed of indivisibles."[26] Thomas Aquinas, commenting on Aristotle's objection, wrote "Instants are not parts of time, for time is not made up of instants any more than a magnitude is made of points, as we have already proved. Hence it does not follow that a thing is not in motion in a given time, just because it is not in motion in any instant of that time."[27][better source needed]
+
+In modern mathematics
+Some mathematicians and historians, such as Carl Boyer, hold that Zeno's paradoxes are simply mathematical problems, for which modern calculus provides a mathematical solution.[28] Infinite processes remained theoretically troublesome in mathematics until the late 19th century. With the epsilon-delta definition of limit, Weierstrass and Cauchy developed a rigorous formulation of the logic and calculus involved. These works resolved the mathematics involving infinite processes.[29][30]
+
+Some philosophers, however, say that Zeno's paradoxes and their variations (see Thomson's lamp) remain relevant metaphysical problems.[8][9][10] While mathematics can calculate where and when the moving Achilles will overtake the Tortoise of Zeno's paradox, philosophers such as Kevin Brown[8] and Francis Moorcroft[9] hold that mathematics does not address the central point in Zeno's argument, and that solving the mathematical issues does not solve every issue the paradoxes raise. Brown concludes "Given the history of 'final resolutions', from Aristotle onwards, it's probably foolhardy to think we've reached the end. It may be that Zeno's arguments on motion, because of their simplicity and universality, will always serve as a kind of 'Rorschach image' onto which people can project their most fundamental phenomenological concerns (if they have any)."[8]
+
+Henri Bergson
+An alternative conclusion, proposed by Henri Bergson in his 1896 book Matter and Memory, is that, while the path is divisible, the motion is not.[31][32]
+
+Peter Lynds
+In 2003, Peter Lynds argued that all of Zeno's motion paradoxes are resolved by the conclusion that instants in time and instantaneous magnitudes do not physically exist.[33][34][35] Lynds argues that an object in relative motion cannot have an instantaneous or determined relative position (for if it did, it could not be in motion), and so cannot have its motion fractionally dissected as if it does, as is assumed by the paradoxes. Nick Huggett argues that Zeno is assuming the conclusion when he says that objects that occupy the same space as they do at rest must be at rest.[17]
+
+Bertrand Russell
+Based on the work of Georg Cantor,[36] Bertrand Russell offered a solution to the paradoxes, what is known as the "at-at theory of motion". It agrees that there can be no motion "during" a durationless instant, and contends that all that is required for motion is that the arrow be at one point at one time, at another point another time, and at appropriate points between those two points for intervening times. In this view motion is just change in position over time.[37][38]
+
+Hermann Weyl
+Another proposed solution is to question one of the assumptions Zeno used in his paradoxes (particularly the Dichotomy), which is that between any two different points in space (or time), there is always another point. Without this assumption there are only a finite number of distances between two points, hence there is no infinite sequence of movements, and the paradox is resolved. According to Hermann Weyl, the assumption that space is made of finite and discrete units is subject to a further problem, given by the "tile argument" or "distance function problem".[39][40] According to this, the length of the hypotenuse of a right angled triangle in discretized space is always equal to the length of one of the two sides, in contradiction to geometry. Jean Paul Van Bendegem has argued that the Tile Argument can be resolved, and that discretization can therefore remove the paradox.[28][41]
+
+Applications
+Quantum Zeno effect
+Main article: Quantum Zeno effect
+In 1977,[42] physicists E. C. George Sudarshan and B. Misra discovered that the dynamical evolution (motion) of a quantum system can be hindered (or even inhibited) through observation of the system.[43] This effect is usually called the "quantum Zeno effect" as it is strongly reminiscent of Zeno's arrow paradox. This effect was first theorized in 1958.[44]
+
+Zeno behaviour
+In the field of verification and design of timed and hybrid systems, the system behaviour is called Zeno if it includes an infinite number of discrete steps in a finite amount of time.[45] Some formal verification techniques exclude these behaviours from analysis, if they are not equivalent to non-Zeno behaviour.[46][47] In systems design these behaviours will also often be excluded from system models, since they cannot be implemented with a digital controller.[48]
+
+In popular culture
+A humorous take is offered by Tom Stoppard in his 1972 play Jumpers, in which the principal protagonist, the philosophy professor George Moore, suggests that according to Zeno's paradox, Saint Sebastian, a 3rd Century Christian saint martyred by being shot with arrows, died of fright.
+
+In 1969, The Firesign Theatre used a version of Zeno's dichotomy paradox when speaking road signs for an approaching exit continued to divide in half, with the destination never being reached by the driver, on their second LP, "How Can You Be In Two Places at Once, When You're Not Anywhere At All."
+
+Folk musicians Lou and Peter Berryman provide a humorous variation in their song "An Hour Away", in which the driver of a car keeps encountering construction that requires a slower speed, so that even as they keep driving, their destination remains an hour away and they can't reach their romantic interest.
+
+Similar paradoxes
+School of Names
+
+Diagram of Hui Shi's stick paradox
+Roughly contemporaneously during the Warring States period (475–221 BCE), ancient Chinese philosophers from the School of Names, a school of thought similarly concerned with logic and dialectics, developed paradoxes similar to those of Zeno. The works of the School of Names have largely been lost, with the exception of portions of the Gongsun Longzi. The second of the Ten Theses of Hui Shi suggests knowledge of infinitesimals:That which has no thickness cannot be piled up; yet it is a thousand li in dimension. Among the many puzzles of his recorded in the Zhuangzi is one very similar to Zeno's Dichotomy:
+"If from a stick a foot long you every day take the half of it, in a myriad ages it will not be exhausted."
+
+— Zhuangzi, chapter 33 (Legge translation)[49]
+The Mohist canon appears to propose a solution to this paradox by arguing that in moving across a measured length, the distance is not covered in successive fractions of the length, but in one stage. Due to the lack of surviving works from the School of Names, most of the other paradoxes listed are difficult to interpret.[50]
+
+Lewis Carroll and Douglas Hofstadter
+"What the Tortoise Said to Achilles",[51] written in 1895 by Lewis Carroll, was an attempt to reveal an analogous paradox in the realm of pure logic. If Carroll's argument is valid, the implication is that Zeno's paradoxes of motion are not essentially problems of space and time, but go right to the heart of reasoning itself.[citation needed] Douglas Hofstadter made Carroll's article a centrepiece of his book Gödel, Escher, Bach: An Eternal Golden Braid, writing many more dialogues between Achilles and the Tortoise to elucidate his arguments. Hofstadter connects Zeno's paradoxes to Gödel's incompleteness theorem in an attempt to demonstrate that the problems raised by Zeno are pervasive and manifest in formal systems theory, computing and the philosophy of mind.[citation needed]
+
+See also
+Incommensurable magnitudes
+Infinite regress
+Philosophy of space and time
+Renormalization
+Ross–Littlewood paradox
+Supertask
+Zeno machine
+List of paradoxes
+Notes
+ Diogenes Laërtius, Lives, 9.23 and 9.29.
+ Parmenides 128d
+ Parmenides 128a–b
+ ([fragment 65], Diogenes Laërtius. IX Archived 2010-12-12 at the Wayback Machine 25ff and VIII 57).
+ Aristotle's Physics Archived 2011-01-06 at the Wayback Machine "Physics" by Aristotle translated by R. P. Hardie and R. K. Gaye
+ "Greek text of "Physics" by Aristotle (refer to §4 at the top of the visible screen area)". Archived from the original on 2008-05-16.
+ Benson, Donald C. (1999). The Moment of Proof : Mathematical Epiphanies. New York: Oxford University Press. p. 14. ISBN 978-0195117219.
+ Brown, Kevin. "Zeno and the Paradox of Motion". Reflections on Relativity. Archived from the original on 2012-12-05. Retrieved 2010-06-06.
+ Moorcroft, Francis. "Zeno's Paradox". Archived from the original on 2010-04-18.
+ Papa-Grimaldi, Alba (1996). "Why Mathematical Solutions of Zeno's Paradoxes Miss the Point: Zeno's One and Many Relation and Parmenides' Prohibition" (PDF). The Review of Metaphysics. 50: 299–314. Archived (PDF) from the original on 2012-06-09. Retrieved 2012-03-06.
+ Huggett, Nick (2010). "Zeno's Paradoxes: 5. Zeno's Influence on Philosophy". Stanford Encyclopedia of Philosophy. Archived from the original on 2022-03-01. Retrieved 2011-03-07.
+ Lindberg, David (2007). The Beginnings of Western Science (2nd ed.). University of Chicago Press. p. 33. ISBN 978-0-226-48205-7.
+ Huggett, Nick (2010). "Zeno's Paradoxes: 3.1 The Dichotomy". Stanford Encyclopedia of Philosophy. Archived from the original on 2022-03-01. Retrieved 2011-03-07.
+ Huggett, Nick (2010). "Zeno's Paradoxes: 3.2 Achilles and the Tortoise". Stanford Encyclopedia of Philosophy. Archived from the original on 2022-03-01. Retrieved 2011-03-07.
+ Aristotle. "Physics". The Internet Classics Archive. Archived from the original on 2008-05-15. Retrieved 2012-08-21. Zeno's reasoning, however, is fallacious, when he says that if everything when it occupies an equal space is at rest, and if that which is in locomotion is always occupying such a space at any moment, the flying arrow is therefore motionless. This is false, for time is not composed of indivisible moments any more than any other magnitude is composed of indivisibles.
+ Laërtius, Diogenes (c. 230). "Pyrrho". Lives and Opinions of Eminent Philosophers. Vol. IX. passage 72. ISBN 1-116-71900-2. Archived from the original on 2011-08-22. Retrieved 2011-03-05.
+ Huggett, Nick (2010). "Zeno's Paradoxes: 3.3 The Arrow". Stanford Encyclopedia of Philosophy. Archived from the original on 2022-03-01. Retrieved 2011-03-07.
+ Aristotle Physics IV:1, 209a25 Archived 2008-05-09 at the Wayback Machine
+ The Michael Proudfoot, A.R. Lace. Routledge Dictionary of Philosophy. Routledge 2009, p. 445
+ Aristotle Physics VII:5, 250a20 Archived 2008-05-11 at the Wayback Machine
+ Huggett, Nick, "Zeno's Paradoxes", The Stanford Encyclopedia of Philosophy (Winter 2010 Edition), Edward N. Zalta (ed.), http://plato.stanford.edu/entries/paradox-zeno/#GraMil Archived 2022-03-01 at the Wayback Machine
+ Aristotle Physics VI:9, 239b33 Archived 2008-05-15 at the Wayback Machine
+ Aristotle. Physics 6.9
+ Aristotle's observation that the fractional times also get shorter does not guarantee, in every case, that the task can be completed. One case in which it does not hold is that in which the fractional times decrease in a harmonic series, while the distances decrease geometrically, such as: 1/2 s for 1/2 m gain, 1/3 s for next 1/4 m gain, 1/4 s for next 1/8 m gain, 1/5 s for next 1/16 m gain, 1/6 s for next 1/32 m gain, etc. In this case, the distances form a convergent series, but the times form a divergent series, the sum of which has no limit.[original research?] Archimedes developed a more explicitly mathematical approach than Aristotle.
+ Aristotle. Physics 6.9; 6.2, 233a21-31
+ Aristotle. Physics. Vol. VI. Part 9 verse: 239b5. ISBN 0-585-09205-2. Archived from the original on 2008-05-15. Retrieved 2008-08-11.
+ Aquinas. Commentary on Aristotle's Physics, Book 6.861
+ Boyer, Carl (1959). The History of the Calculus and Its Conceptual Development. Dover Publications. p. 295. ISBN 978-0-486-60509-8. Retrieved 2010-02-26. If the paradoxes are thus stated in the precise mathematical terminology of continuous variables (...) the seeming contradictions resolve themselves.
+ Lee, Harold (1965). "Are Zeno's Paradoxes Based on a Mistake?". Mind. Oxford University Press. 74 (296): 563–570. doi:10.1093/mind/LXXIV.296.563. JSTOR 2251675.
+ B Russell (1956) Mathematics and the metaphysicians in "The World of Mathematics" (ed. J R Newman), pp 1576-1590.
+ Bergson, Henri (1896). Matière et Mémoire [Matter and Memory] (PDF). Translation 1911 by Nancy Margaret Paul & W. Scott Palmer. George Allen and Unwin. pp. 77–78 of the PDF. Archived (PDF) from the original on 2019-10-15. Retrieved 2019-10-15.
+ Massumi, Brian (2002). Parables for the Virtual: Movement, Affect, Sensation (1st ed.). Durham, NC: Duke University Press Books. pp. 5–6. ISBN 978-0822328971.
+ "Zeno's Paradoxes: A Timely Solution". January 2003. Archived from the original on 2012-08-13. Retrieved 2012-07-02.
+ Lynds, Peter. Time and Classical and Quantum Mechanics: Indeterminacy vs. Discontinuity. Foundations of Physics Letter s (Vol. 16, Issue 4, 2003). doi:10.1023/A:1025361725408
+ Time’s Up, Einstein Archived 2012-12-30 at the Wayback Machine, Josh McHugh, Wired Magazine, June 2005
+ Russell, Bertrand (2002) [First published in 1914 by The Open Court Publishing Company]. "Lecture 6. The Problem of Infinity Considered Historically". Our Knowledge of the External World: As a Field for Scientific Method in Philosophy. Routledge. p. 169. ISBN 0-415-09605-7.
+ Huggett, Nick (1999). Space From Zeno to Einstein. MIT Press. ISBN 0-262-08271-3.
+ Salmon, Wesley C. (1998). Causality and Explanation. Oxford University Press. p. 198. ISBN 978-0-19-510864-4. Archived from the original on 2023-12-29. Retrieved 2020-11-21.
+ Van Bendegem, Jean Paul (17 March 2010). "Finitism in Geometry". Stanford Encyclopedia of Philosophy. Archived from the original on 2008-05-12. Retrieved 2012-01-03.
+ Cohen, Marc (11 December 2000). "ATOMISM". History of Ancient Philosophy, University of Washington. Archived from the original on July 12, 2010. Retrieved 2012-01-03.
+ van Bendegem, Jean Paul (1987). "Discussion:Zeno's Paradoxes and the Tile Argument". Philosophy of Science. Belgium. 54 (2): 295–302. doi:10.1086/289379. JSTOR 187807. S2CID 224840314.
+ Sudarshan, E. C. G.; Misra, B. (1977). "The Zeno's paradox in quantum theory" (PDF). Journal of Mathematical Physics. 18 (4): 756–763. Bibcode:1977JMP....18..756M. doi:10.1063/1.523304. OSTI 7342282. Archived (PDF) from the original on 2013-05-14. Retrieved 2018-04-20.
+ W.M.Itano; D.J. Heinsen; J.J. Bokkinger; D.J. Wineland (1990). "Quantum Zeno effect" (PDF). Physical Review A. 41 (5): 2295–2300. Bibcode:1990PhRvA..41.2295I. doi:10.1103/PhysRevA.41.2295. PMID 9903355. Archived from the original (PDF) on 2004-07-20. Retrieved 2004-07-23.
+ Khalfin, L.A. (1958). "Contribution to the Decay Theory of a Quasi-Stationary State". Soviet Phys. JETP. 6: 1053. Bibcode:1958JETP....6.1053K.
+ Paul A. Fishwick, ed. (1 June 2007). "15.6 "Pathological Behavior Classes" in chapter 15 "Hybrid Dynamic Systems: Modeling and Execution" by Pieter J. Mosterman, The Mathworks, Inc.". Handbook of dynamic system modeling. Chapman & Hall/CRC Computer and Information Science (hardcover ed.). Boca Raton, Florida, USA: CRC Press. pp. 15–22 to 15–23. ISBN 978-1-58488-565-8. Archived from the original on 2023-12-29. Retrieved 2010-03-05.
+ Lamport, Leslie (2002). Specifying Systems (PDF). Addison-Wesley. p. 128. ISBN 0-321-14306-X. Archived (PDF) from the original on 2010-11-16. Retrieved 2010-03-06. {{cite book}}: |journal= ignored (help)
+ Zhang, Jun; Johansson, Karl; Lygeros, John; Sastry, Shankar (2001). "Zeno hybrid systems" (PDF). International Journal for Robust and Nonlinear Control. 11 (5): 435. doi:10.1002/rnc.592. S2CID 2057416. Archived from the original (PDF) on August 11, 2011. Retrieved 2010-02-28.
+ Franck, Cassez; Henzinger, Thomas; Raskin, Jean-Francois (2002). "A Comparison of Control Problems for Timed and Hybrid Systems". Archived from the original on May 28, 2008. Retrieved 2010-03-02. {{cite journal}}: Cite journal requires |journal= (help)
+ Müller, Max, ed. (1891). "The Writings of Kwang Tse". Sacred Books of the East. Vol. 40. Translated by Legge, James. Oxford University Press.
+ "School of Names > Miscellaneous Paradoxes (Stanford Encyclopedia of Philosophy)". plato.stanford.edu. Archived from the original on 2016-12-11. Retrieved 2020-01-30.
+ Carroll, Lewis (1895-04-01). "What the Tortoise Said to Achilles". Mind. IV (14): 278–280. doi:10.1093/mind/IV.14.278. ISSN 0026-4423. Archived from the original on 2020-07-20. Retrieved 2020-07-20.
+References
+Kirk, G. S., J. E. Raven, M. Schofield (1984) The Presocratic Philosophers: A Critical History with a Selection of Texts, 2nd ed. Cambridge University Press. ISBN 0-521-27455-9.
+Huggett, Nick (2010). "Zeno's Paradoxes". Stanford Encyclopedia of Philosophy. Archived from the original on 2022-03-01. Retrieved 2011-03-07.
+Plato (1926) Plato: Cratylus. Parmenides. Greater Hippias. Lesser Hippias, H. N. Fowler (Translator), Loeb Classical Library. ISBN 0-674-99185-0.
+Sainsbury, R.M. (2003) Paradoxes, 2nd ed. Cambridge University Press. ISBN 0-521-48347-6.
+Skyrms, Brian (1983). "Zeno's Paradox of Measure". In Cohen, R. S.; Laudan, L. (eds.). Physics, Philosophy, and Psychoanalysis. Dordrecht: Reidel. pp. 223–254. ISBN 90-277-1533-5.
+External links
+
+Wikisource has original text related to this article:
+Zeno of Elea
+Dowden, Bradley. "Zeno’s Paradoxes." Entry in the Internet Encyclopedia of Philosophy.
+"Antinomy", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+Introduction to Mathematical Philosophy, Ludwig-Maximilians-Universität München
+Silagadze, Z. K. "Zeno meets modern science,"
+Zeno's Paradox: Achilles and the Tortoise by Jon McLoone, Wolfram Demonstrations Project.
+Kevin Brown on Zeno and the Paradox of Motion
+Palmer, John (2008). "Zeno of Elea". Stanford Encyclopedia of Philosophy.
+This article incorporates material from Zeno's paradox on PlanetMath, which is licensed under the Creative Commons Attribution/Share-Alike License.
+Grime, James. "Zeno's Paradox". Numberphile. Brady Haran. Archived from the original on 2018-10-03. Retrieved 2013-04-13.
+vte
+Common paradoxes
+Authority control databases Edit this at Wikidata
+Categories: Eponymous paradoxesPhilosophical paradoxesSupertasksMathematical paradoxesParadoxes of infinityPhysical paradoxes
+This page was last edited on 30 January 2024, at 23:06 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaCode of ConductDevelopersStatisticsCookie statementMobile viewWikimedia FoundationPowered by MediaWiki
+Toggle limited content width
